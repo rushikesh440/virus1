@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+
+</head>
+<body>
+  
+  <fieldset>
+    <legend>Personal Details</legend><br>
+    Saturation<select>......</select><br><br>
+    
+   first Name:<input type="text" id="name" autofocus><br><br>
+    <label for="name">Last Name :</label>
+    <input type="text" id="name" ><br><br>
+    Gender<input type="radio" id="gender">Male
+    <input type="radio" id="gender">female<br><br>
+    Email<input type="email"><br><BR>
+    Date of Birth <input type="date" id="birthdate"><br><br>
+    Addres : <input type="text" size="50px"><br><BR><br>
+    <button>Submit</button>
+
+
+
+  </fieldset>  
