@@ -15,7 +15,6 @@
     Saturation<select>......</select><br><br>
     
    first Name:<input type="text" id="name" autofocus><br><br>
-    <label for="name">Last Name :</label>
     <input type="text" id="name" ><br><br>
     Gender<input type="radio" id="gender">Male
     <input type="radio" id="gender">female<br><br>
